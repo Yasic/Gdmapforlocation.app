@@ -1,0 +1,7 @@
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="50dp"
+    android:layout_width="fill_parent"
+    android:id="@+id/timeedit"
+    android:inputType="number"
+    android:textColor="#000000">
+</EditText>

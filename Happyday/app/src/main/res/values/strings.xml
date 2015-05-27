@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">运动路线监听</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
